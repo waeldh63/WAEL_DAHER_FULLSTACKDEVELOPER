@@ -29,8 +29,8 @@ const CreatingPosts = () => {
     userId: null,
   });
   
-  if (loading) return <p>Loading...</p>;
-  if (error) return <p>Error: {error}</p>;
+  // if (loading) return <p>Loading...</p>;
+  // if (error) return <p>Error: {error}</p>;
   
   
   // THIS FUNCTION FILTER THE POSTS ON USERID 
